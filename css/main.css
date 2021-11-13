@@ -53,6 +53,57 @@ body {
    left: 8px;
    top: 260px;}
 
+   #especiales_clase{
+    position: absolute;
+    left: 8px;
+    top: 315px;}
+
+  .regresar{
+    position: absolute;
+    left: 10px;
+    top: 550px;    }
+
+  .precios{
+    position: absolute;
+    left: 279px;
+    top: 95px;}
+
+  #bloody_clase{
+    position: absolute;
+    left: 8px;
+    top: 95px;  }
+
+  #conquetier_clase{
+    position: absolute;
+    left: 8px;
+    top: 150px;}
+
+  #smokers_clase{
+    position: absolute;
+    left: 8px;
+    top: 205px;}
+
+  #eggmeister_clase{
+   position: absolute;
+   left: 8px;
+   top: 260px;   }
+
+  #sourtoe_clase{
+    position: absolute;
+    left: 8px;
+    top: 315px;}
+
+  #plato_titulo_clase{
+     position: absolute;
+     left: 8px;
+     top: 6px;}
+
+  #filet_clase{
+   position: absolute;
+   left: 8px;
+   top: 95px;}
+
+
      
 
       
