@@ -11,6 +11,23 @@ body {
 
 
 
+  #titulo_clase{
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 30px;
+    top: 188px;}
+
+  #logo_clase{
+    position: relative;
+    left: 146px;
+    top: 541px;}
+
+  #menu_clase{
+   position: absolute;
+   left: 61px;
+   top: 381px;}
+
      
 
       
