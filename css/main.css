@@ -28,6 +28,31 @@ body {
    left: 61px;
    top: 381px;}
 
+   #menus_clase{
+    position: absolute;
+    left: 8px;
+    top: 6px;}
+
+   #plato_fuerte_clase{
+    position: absolute;
+    left: 8px;
+    top: 95px; }
+
+   #bebidas_clase{
+    position: absolute;
+    left: 8px;
+    top: 150px; }
+
+  #postres_clase{
+   position: absolute;
+   left: 8px;
+   top: 205px;}
+
+ #sangrias_clase{
+   position: absolute;
+   left: 8px;
+   top: 260px;}
+
      
 
       
